@@ -1,7 +1,7 @@
 import requests
 
-API_TOKEN = "<API TOKEN>"
-ZONE_ID = "<ZONE ID>"
+API_TOKEN = "L4kH3D67918f_oIsBe5Ua11p7ea4j-47KvCccW6T"
+ZONE_ID = "0cbebb7d936c2d966f68edf637388f3e"
 
 baseUrl = f"https://api.cloudflare.com/client/v4/zones/{ZONE_ID}/dns_records"
 
